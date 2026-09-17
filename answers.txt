@@ -6,5 +6,9 @@ Pros:
 
 Cons:
 - It lowers predictability since the end scope will most likely change from what was initially planned.
-- Building off of that, it enables the scope to increase in coverage without thorough discussion of timeline changes.
+- Building on that, it enables the scope to increase in coverage without thorough discussion of timeline changes.
+
+Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+
+A Scrum Master is responsible for maintaining Agile development practices and improving team efficiency/productivity, whereas a Product Owner is responsible for determining which features to build, why they should be built, and when they should be built.
 
