@@ -1,1 +1,10 @@
+What are some Pros and Cons of Agile development (vs non-Agile)? List 2 of each.
+
+Pros:
+- This development methodology offers high flexibility.
+- It enables quick delivery.
+
+Cons:
+- It lowers predictability since the end scope will most likely change from what was initially planned.
+- Building off of that, it enables the scope to increase in coverage without thorough discussion of timeline changes.
 
